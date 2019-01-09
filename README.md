@@ -9,4 +9,7 @@ In order to run the `cnn.py`, `svm.py`, or `knn2.py` code, download [preprocesse
 
 In order to run `lin_reg.py` or `knn.py`, download GTZAN [raw audio](https://drive.google.com/open?id=0B0NEMdSW1_-IZnM5cVRSWnk5cVk).
 
+Read our [report](https://github.com/elipugh/Music-Classification/blob/master/CS229_Final_Report.pdf)
+
+Read our poster:
 ![poster](https://github.com/elipugh/Music-Classification/blob/master/CS229_Poster.png)
